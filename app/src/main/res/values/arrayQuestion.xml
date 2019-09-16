@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="question0">
+        <item name="question"> 1. Algorithm of splitting m frames into n processes for giving equal share the m/n frames is known as</item>
+        <item name="choiceA">a. split allocation algorithm</item>
+        <item name="choiceB">b. equal allocation algorithm</item>
+        <item name="choiceC">c. proportional allocation algorithm</item>
+        <item name="choiceD">d. none of these</item>
+        <item name="answer">b. equal allocation algorithm</item>
+        <item name="feedback">feedback for question 1</item>
+    </string-array>
+
+    <string-array name="question1">
+        <item name="question"> 2. The layer between the hardware and the user program is?</item>
+        <item name="choiceA">a. Operating environment</item>
+        <item name="choiceB">b. System environment</item>
+        <item name="choiceC">c. Operating system</item>
+        <item name="choiceD">d. All of the above</item>
+        <item name="answer">c. Operating system</item>
+        <item name="feedback">feedback for question 2</item>
+    </string-array>
+
+    <string-array name="question2">
+        <item name="question"> 3. Which of the following is the main function of the command interpreter?</item>
+        <item name="choiceA">a. to handle the files in the operating system</item>
+        <item name="choiceB">b. to provide the interface between the API and application program</item>
+        <item name="choiceC">c. to get and execute the next user-specified command</item>
+        <item name="choiceD">d. All of the above</item>
+        <item name="answer">c. to get and execute the next user-specified command</item>
+        <item name="feedback">feedback for question 3</item>
+    </string-array>
+
+    <string-array name="question3">
+        <item name="question"> 4. Allocation of memory to each process according to its size is known as?</item>
+        <item name="choiceA">a. proportional allocation algorithm</item>
+        <item name="choiceB">b. split allocation algorithm</item>
+        <item name="choiceC">c. equal allocation algorithm</item>
+        <item name="choiceD">d. none of the above</item>
+        <item name="answer">a. proportional allocation algorithm</item>
+        <item name="feedback">feedback for question 4</item>
+    </string-array>
+
+    <string-array name="question4">
+        <item name="question"> 5. The resource management can be done in an operating system via</item>
+        <item name="choiceA">a. space division multiplexing</item>
+        <item name="choiceB">b. both time and space division multiplexing</item>
+        <item name="choiceC">c. time division multiplexing</item>
+        <item name="choiceD">d. All of the above</item>
+        <item name="answer">b. both time and space division multiplexing</item>
+        <item name="feedback">feedback for question 5</item>
+    </string-array>
+
+    <string-array name="question5">
+        <item name="question"> 6. When a process fails, most OS write the error information to a</item>
+        <item name="choiceA">a. new file</item>
+        <item name="choiceB">b. another running process</item>
+        <item name="choiceC">c. log file</item>
+        <item name="choiceD">d. All of the above</item>
+        <item name="answer">a. new file</item>
+        <item name="feedback">feedback for question 6</item>
+    </string-array>
+
+    <string-array name="question6">
+        <item name="question"> 7. A platform for other software to run on is called</item>
+        <item name="choiceA">a. Application Software</item>
+        <item name="choiceB">b. System Software</item>
+        <item name="choiceC">c. Operating System</item>
+        <item name="choiceD">d. All of the above</item>
+        <item name="answer">c. Operating System</item>
+        <item name="feedback">feedback for question 7</item>
+    </string-array>
+
+    <string-array name="question7">
+        <item name="question"> 8. The command interpreter in The main function is</item>
+        <item name="choiceA">a. to handle the files in the operating system</item>
+        <item name="choiceB">b. to provide the interface between the API and application program</item>
+        <item name="choiceC">c. to get and execute the next user-specified command</item>
+        <item name="choiceD">d. All of the above</item>
+        <item name="answer">b. to provide the interface between the API and application program</item>
+        <item name="feedback">feedback for question 8</item>
+    </string-array>
+
+</resources>
